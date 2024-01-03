@@ -1,7 +1,7 @@
 openpyxl==3.0.10
 requests==2.27.1
 beautifulsoup4==4.11.1
-pandas==1.4.3
+pandas==2.1.4
 xls2xlsx==0.1.5
 currency-symbols==1.0.0
 pytz==2022.7
